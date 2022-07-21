@@ -1,6 +1,6 @@
 ## Description
 
-A brief repo to learn NestJS 
+A brief repo to learn NestJS before ft_transcendence project
 
 ## Installation
 
